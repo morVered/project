@@ -61,7 +61,7 @@ public class Run {
 		workersMap.put("Sahar", new Worker("Sahar", 32, 4000));
 		workersMap.put("Boaz", new Worker("Boaz", 31, 3000));
 		workersMap.put("Boaz", new Worker("Boaz", 32, 6000));
-		
+		workersMap.put("BoazTwo", new Worker("BoazJunior", 3, 6));
 		
 		
 		
